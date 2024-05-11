@@ -9,6 +9,7 @@ langchain-openai = "*"
 black = "*"
 python-dotenv = "*"
 langchainhub = "*"
+flask = "*"
 
 [dev-packages]
 
