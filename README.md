@@ -1,6 +1,8 @@
 # Ice-breaker
 
-### This application simplifies connecting with people on LinkedIn. Enter a name, and it scrapes profiles, selects the most relevant one, and uses GPT-3.5 Turbo to generate a summary, extract interests, and create icebreaker questions.
+### This application simplifies connecting with people on LinkedIn. 
+### Enter a name, and it scrapes profiles, selects the most relevant one, and uses GPT-3.5 Turbo to generate a summary, extract interests, 
+### and create icebreaker questions.
 
 
 
