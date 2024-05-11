@@ -22,7 +22,7 @@ def scrape_linkedin_profile(linkedin_profile_url: str, mock: bool = False):
         
     data = response.json()
 
-    # cleaning data
+    # removing empty values
     data = {
         k: v
         for k, v in data.items()
